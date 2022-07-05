@@ -1,3 +1,37 @@
-.life{
-    text-align: right;
+.new {
+    color: burlywood;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+
+}
+
+.half-width img {
+    width: 30%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: yellow;
+    background-image: linear-gradient(red, yellow);
+    padding: 5px 30px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+
+
+}
+
+.top-image {
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+body {
+    image
 }
